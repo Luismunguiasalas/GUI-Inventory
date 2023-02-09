@@ -4,7 +4,7 @@
 
 /**
  *
- * @author Place Your Name Here
+ * @author Luis Munguia Salas
  */
 public abstract class Part {
     private int id;
