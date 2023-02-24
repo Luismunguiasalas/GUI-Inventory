@@ -1,7 +1,6 @@
 package C482.View_Controller;
 
-//Zack Spurlock
-//Student ID: 000742176
+
 
 import C482.Model.Inventory;
 import C482.Model.Parts;
